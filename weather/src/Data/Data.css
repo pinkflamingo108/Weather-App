@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#wrapper{
+width: 100%;
+
+}
+
+.info-container{
+margin-top: 5rem;    
+display: flex;
+justify-content: center;
+
+}
+
+.info-card{
+padding: 1rem;
+ display: flex;
+ flex-direction: column;   
+ width: 20%;
+box-shadow: 0 0 25px 10px 
+rgba(189, 195, 199, .50);
+border-radius: 25px;
+}
+
+
+.condition-info{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.weather-img{
+   max-width: 7rem;
+   display: flex;
+}

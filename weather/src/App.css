@@ -1,0 +1,12 @@
+*{
+ font-family: 'Quicksand', sans-serif;
+ outline: none;
+}
+
+.header-container{
+width: 100%;
+}
+.main-header{
+    display: flex;
+    justify-content: center;
+}
